@@ -1,4 +1,4 @@
-# Welcome to the Beginners-Learning-Guide wiki! 
+# Welcome to the Beginners-Learning-Guide! 
 
 1. Learning guide for computer science fundamentals [link](https://github.com/swapnilpatil8289/Beginners-Learning-Guide/wiki/Learning-Guide-for-Computer-Science-Fundamentals)
 2. Learning guide on Software Engineering for Beginner's [link](https://github.com/swapnilpatil8289/Beginners-Learning-Guide/wiki/Learning-Guide-on-Software-Engineering-absulute-Beginner's)
